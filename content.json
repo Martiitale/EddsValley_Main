@@ -9,6 +9,10 @@
     {
       "Name": "EddsWorld_Eddsworld_House",
       "FromMapFile": "Maps/Eddsworld_House.tmx"
+    },
+    {
+      "Name": "EddsWorld_Eddsworld_MattRoom",
+      "FromMapFIle": "Maps/Eddsworld_MattRoom.tmx"
     }
   ],
   "Changes": [

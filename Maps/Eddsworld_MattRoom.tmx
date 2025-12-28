@@ -5,7 +5,7 @@
   <property name="Doors" value="13 15 1 120"/>
   <property name="NightTiles" value="Front 29 5 1253 Front 29 6 1285 Front 42 6 1222 Front 42 7 1254 Front 45 6 1222 Front 45 7 1254 Back 18 13 574 Back 18 14 606 Back 21 13 124 Back 21 14 124 Back 18 17 294 Back 18 18 262 Back 21 17 262 Back 21 18 262"/>
   <property name="ViewportFollowPlayer" type="bool" value="true"/>
-  <property name="Warp" value="10 15 Eddsworld_Eddsworld_House 31 14"/>
+  <property name="Warp" value="10 15 EddsWorld_Eddsworld_House 28 14"/>
  </properties>
  <tileset firstgid="1" name="indoor" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
   <image source="townInterior" width="512" height="1088"/>
@@ -52,8 +52,8 @@
  <tileset firstgid="14404" name="farmhouse_tiles" tilewidth="16" tileheight="16" tilecount="264" columns="12">
   <image source="farmhouse_tiles.png" width="192" height="352"/>
  </tileset>
- <tileset firstgid="14668" name="1" tilewidth="16" tileheight="16" tilecount="0" columns="32">
-  <image source="../../../../../Program Files (x86)/Steam/steamapps/common/Stardew Valley/Mods/EddsValley_Main/Maps/townInterior" width="512" height="1088"/>
+ <tileset firstgid="14668" name="1" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
+  <image source="townInterior.png" width="512" height="1088"/>
  </tileset>
  <layer id="1" name="Back" width="36" height="31">
   <data encoding="csv">
