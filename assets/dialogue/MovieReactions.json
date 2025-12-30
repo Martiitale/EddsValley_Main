@@ -2,34 +2,26 @@
   "Tom_*_BeforeMovie": "Hace rato que no venía al cine.$0#$b#Matt insistió bastante.$1",
   "Tom_*_DuringMovie": "(Tom mira la pantalla en silencio, apenas reaccionando.)$0",
   "Tom_*_AfterMovie": "Bueno.$0#$b#No fue una pérdida total de tiempo.$1",
-
   "Tom_spring_movie_0_BeforeMovie": "Edd habló tanto de esta película que me cansé antes de empezar.$0#$b#Veamos.$1",
   "Tom_spring_movie_0_DuringMovie": "…$0#$b#Ok, eso no me lo esperaba.$2",
   "Tom_spring_movie_0_DuringMovie_2": "(Tom se queda serio, mirando la pantalla sin pestañear.)$0",
   "Tom_spring_movie_0_AfterMovie": "No estuvo mal.$0#$b#Pero no pienso verla otra vez.$1",
-
   "Tom_family_BeforeMovie": "Matt diría que esta es \"para toda la familia\".$0#$b#Nunca confíes en eso.$1",
   "Tom_family_DuringMovie": "(Tom se reclina un poco en el asiento, más tranquilo.)$0",
   "Tom_family_AfterMovie": "Supongo que estuvo bien.$0#$b#Nadie gritó, eso suma.$1",
-
   "Tom_comedy_BeforeMovie": "Dicen que es graciosa.$0#$b#Eso me pone nervioso.$1",
   "Tom_comedy_DuringMovie": "…$0#$b#Ok, eso sí fue estúpido.$1",
   "Tom_comedy_AfterMovie": "Me reí más de lo que esperaba.$0#$b#No se lo digas a nadie.$1",
-
   "Tom_horror_BeforeMovie": "No soy fan del terror.$0#$b#Pero ya estamos aqui.$1",
   "Tom_horror_DuringMovie": "…$0#$b#Eso fue innecesario.$2",
   "Tom_horror_AfterMovie": "No voy a dormir bien hoy.$0#$b#Gracias por eso.$1",
-
   "Tom_love_BeforeMovie": "Tord dijo que esta era empalagosa.$0#$b#Probablemente tenga razón.$1",
   "Tom_love_AfterMovie": "Bueno.$0#$b#No fue tan horrible.$1",
-
   "Tom_like_BeforeMovie": "Escuché cosas decentes de esta.$0#$b#Eso ya es mucho.$1",
   "Tom_like_AfterMovie": "Sí.$0#$b#Me gustó.$1",
-
   "Tom_dislike_BeforeMovie": "No habría elegido esta.$0#$b#Pero confío en ti.$1",
   "Tom_dislike_DuringMovie": "…$0#$b#Ajá.$2",
   "Tom_dislike_AfterMovie": "No fue lo mío.$0#$b#Pero valió la pena venir contigo.$1",
-
   "Tom_seen_love_BeforeMovie": "Esta ya la vi con Matt.$0#$b#Habló durante toda la película.$1",
   "Tom_seen_like_BeforeMovie": "La vi antes con Edd.$0#$b#Se rió en partes rarísimas.$1",
   "Tom_seen_dislike_BeforeMovie": "Sí, esta ya la vi.$0#$b#No mejoró.$1"
