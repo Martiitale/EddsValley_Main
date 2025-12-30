@@ -3,33 +3,44 @@
 "Target":"Characters/Dialogue/Tom",
 "Entries": {
   
-  "Introduction": "Supongo que eres @, no? Bienvenido al pueblo.$1#$b#Si no te importa... Tengo cosas que hacer.$0#Estoy ocupado, perdona.$0",
-  "give_pendant": "Whoa, @, didn't see that coming!$6#I'll marry you, no doubt about it, sweetheart.$8",
-  "MovieInvitation": "A movie date, huh? Sounds like fun, @. I'm game! Let's see what's playing and make a night of it.$3",
+  "Introduction": "Supongo que eres @, ¿no? ${bienvenido^bienvenida}$ al pueblo.$1#$b#Si no te importa... Tengo cosas que hacer.$0#Estoy ocupado, perdona.$0",
+  "give_pendant": "Whoa, @, no creia que me regalarias esto!$4#¿Crees que diria no a casarme contigo? Estoy deseando pasar el resto de mi vida contigo.$4",
+  "MovieInvitation": "¿Ir al cine? ¿Juntos? No veo el por que no, @. ¿Pagarás las entradas?$1",
  
-  "FlowerDance_Accept": "Encantado de bailar contigo$8#$b#Gracias por elegirme$4",
-  "FlowerDance_Reject": "No tengo ganas de bailar contigo.$1#$b#No tengo ganas de bailar contigo.$1",
-  "AcceptBouquet_1": "Well, @, I have to say, I've been hoping you'd ask. I'd love to be your boyfriend. Let's make this official.$7",
-  "give_flowers1": "Well, @, I have to say, I've been hoping you'd ask. I'd love to be your boyfriend. Let's make this official.$7",
-  "AcceptBouquet": "These flowers?$6#$b#Of course! I'm happy to become your boyfriend!$1",
-  "give_flowers2": "These flowers?$6#$b#Of course! I'm happy to become your boyfriend!$1",
+  "FlowerDance_Accept": "Encantado de bailar contigo$1#$b#Gracias por elegirme$4",
+  "FlowerDance_Reject": "No tengo ganas de bailar contigo.$0",
+  "AcceptBouquet_1": "Bueno, no veo el por que no deberiamos salir, esta bien.$1",
+  "give_flowers1": "Bueno, no veo el por que no deberiamos salir, esta bien.$1",
+  "AcceptBouquet": "¿Estas flores son para mi?$5#$b#@, que sepas que me encantaria ser tu pareja.$1",
+  "give_flowers2": "¿Estas flores son para mi?$5#$b#@, que sepas que me encantaria ser tu pareja.$1",
  
-  "dumped_Boys": "Sigo sin creérmelo, @. Porfavor, dejame tranquilo.$1#$b#Dejame, tranquilo!$2",  
+  "SpouseFarmhouseClutter": "Cariño, cuesta un poco caminar con todo tirado por el suelo.$0",
+  "SpouseGiftJealous": "@, no es por nada, pero,$0#$b#De verdad tienes que ir dandole regalos?$3",
+  "Spouse_MonstersInHouse": "¡@!Traeme cualquier arma, hay un bicho cerca...$4",
+  "SpouseStardrop": "¿Esto es para mi?$1#$b#¡Es increible!",
+  "WipedMemory": "Supongo que eres...$1#$b#Eres...$0#$b#...$0#$b#Si no te importa... Tengo cosas que hacer.$0#Estoy ocupado, perdona.$0",
+  "HitBySlingshot": "¡Joder!$2#$b#Ten mas cuidado la proxima vez.$6",
+  "dumped_Boys": "Sigo sin creérmelo, @. Porfavor, dejame tranquilo.$0#$b#Dejame, tranquilo!$2",  
   "divorced": "Que haces aqui? Déjame solo!$5",
-  "breakUp": "Oh...Claro, lo entiendo...$0#$b# Em... Espero que te vaya bien.$1#$b#Me podrias dejar solo, porfa. Necesito pensar.$0#Necesito estar solo, porfavor vete.$0#Que te vayas!$2#%Tom quiere estar solo.",
+  "DumpsterDiveComment": "Que asqueroso...$6#$b#No creo que encuentres mucho ahi...$0",
+  "breakUp": "Oh...Claro, lo entiendo...$0#$b# Erhm... Espero que te vaya bien.$1#$b#Me podrias dejar solo, porfa. Necesito pensar.$0#Necesito estar solo, porfavor vete.$0#Que te vayas!$2#%Tom quiere estar solo.",
   
   "AcceptGift_(O)StardropTea": "Ah, Té de fruta estelar? Nunca vi uno con mis propios ojos. Gracias.$1", 
-  
+  "RejectGift_Divorced": "Quedate con cualquier cosa que me vayas a regalar...$0#$b#Puedes metertelo por donde no te quepa...$6#$b#",
 
-  "cc_Complete": "Te vi varas veces entrar a ese edificio y me preguntaba que hacias allí dentro.$0#$b#Pero veo qeu lo has renovado tu solito, es mucho mas bonito ahora. Gracias.",
-  "joja_Begin": "El negocio de jojacola esta empezando a expandirse. Que asco. $2#$b# Espero que quiebre.$2# No venden ninguna bebida alcholica buena.",
+  "cc_Complete": "Te vi varas veces entrar a ese edificio y me preguntaba que hacias allí dentro.$0#$b#Pero veo que lo has renovado tu ${solito^solita}$, es mucho mas bonito ahora. Gracias.",
+  "joja_Begin": "El negocio de Jojacola esta empezando a expandirse. Que asco. $2#$b# Espero que quiebre.$2# No venden ninguna bebida alcholica buena.",
 
 
   "GreenRain": "Me encanta salir a caminar bajo la lluvia, pero...$0#$b# Está lloviendo verde, esto no se ve todos los dias. No te sorprende?$1",
   "GreenRain_2": "Soy yo o las plantas crecen mas rapido?$0# Dan un poco de mal rollo.$0",
   "GreenRainFinished": "Y así termina la lluvia de mocos.$1#$b#Bueno pues nada, a volver a la normalidad...$1#$b#Espero que vuelva a llover así algun dia.$1. ",
 
-  
+  "RejectMovieTicket_AlreadyInvitedBySomeoneElse": "Voy a tener que rechazar tu invitacion, {0} ya me ha invitado.$1 ",
+  "RejectMovieTicket_AlreadyWatchedThisWeek": "No gracias, no me apetece volver a ver la misma película otra vez.$1",
+  "RejectMovieTicket_Divorced": "Prefiero estar encerrado en una sala llena de leones que tener que ver una película contigo.$6",
+  "RejectMovieTicket_DontWantToSeeThatMovie": "Normalmente diria que si, pero esa película no esta entre mis opciones preferidas que digamos.$0",
+  "RejectMovieTicket": "Paso. ¿Por que no invitas a Matt? Estoy seguro de que el se apuntaria incluso a un bombardeo.$1",
 
 
   "AcceptBirthdayGift_522": "Y esto?.#$b#Gracias por etse precioso anillo, lo guardare muy bien.$1",
@@ -38,7 +49,7 @@
   "AcceptGift_(O)272": "Me estas sugiriendo algo?$1",
   "AcceptGift_(O)303": "Gracias. Me la tomare a tu salud.$1",
   "AcceptGift_(O)308": "Porque tiene puntos negro? Me deberia de preocupar?$0",
-  "AcceptGift_(O)613": "Gracais, tiene muy buena pinta.$1",
+  "AcceptGift_(O)613": "Gracias, tiene muy buena pinta.$1",
   "AcceptGift_(O)346": "Ostras preferiria un Smirnoff, pero una cerbeza tambien me sirve.$1",
   "AcceptGift_(O)348": "Ostras preferiria un Smirnoff, pero una cerbeza tambien me sirve.$1",
 
@@ -49,80 +60,80 @@
 
   "AcceptBirthdayGift_Liked": "Ostras, gracias por este bonito regalo. Lo aprecio.$1",
   "birthdayLikeA": "Ostras, gracias por este bonito regalo. Lo aprecio.$1",
-  "birthdayLikeB": "Ostras, gracias por este bonito regalo. Lo aprecio.$1",
+  "birthdayLikeB": "Ostras, gracias por este bonito regalo. No esta nada mal.$1",
 
 
   "AcceptBirthdayGift_Disliked": "Gracias...$2#$b#Donde hay una basura cerca? Es para un trabajo.$2",
-  "birthdayDislikeA": "Mejor si te la quedas tu. Esa mierda no la voy a usar.$2",
-  "birthdayDislikeB": "Gracias...$2#$b#Donde hay una basura cerca? Es para un trabajo.$2",
+  "birthdayDislikeA": "Mejor si te lo quedas tu. Esa mierda no la voy a usar.$2",
+  "birthdayDislikeB": "Gracias...$2#$b#Donde hay un mechero cerca? Es para un trabajo.$2",
 
 
   
   "AcceptBirthdayGift_Neutral":  "Te has acordado de mi cumpleaños. Gracias, lo aprecio.$1",
-  "birthdayNeutralA": "Te has acordado de mi cumpleaños. Gracias, lo aprecio.$1",
+  "birthdayNeutralA": "Te has acordado de mi cumpleaños. Gracias.$1",
   "birthdayNeutralB": "Te has acordado de mi cumpleaños. Gracias, lo aprecio.$1",
   
   "engageA": "Sabes?$1#$b# Te quiero mucho, @.$4#Lo tenia que decir.$4",
   "engageB": "Sabes?$1#$b# Te quiero mucho, @.$4#Necesitaba decirtelo.$4",
-  "marriedA": "You're always so pretty, @! No matter what.$7",
+  "marriedA": "Eres ${precioso^preciosa}$ @ Me alegra poder llamarte mi ${marido^esposa}$ .$4",
   "marriedB": "...$0#$b#Pense que nunca me lo pedirias.$4",
   
-  "Mon": "Dando un paseo?$1#",
-  "Mon2": "Ah, you're here again. Starting to feel like you're part of the scenery around here, in a good way.$7",
-  "Mon4": "Hey, @, did you catch the latest episode of that show everyone's talking about? I heard it's pretty intense.$7#The name of the show? ... I don't remember.$2",
-  "Mon6": "You know, @, sometimes I think life's all about the unexpected twists and turns. Keeps things interesting, don't you think?$3",
-  "Mon8": "Feeling adventurous today, @? Maybe we should go explore someplace new. Who knows what we might discover?$7",
-  "Mon10": "Hey, @, how about we grab some deserts together sometime?$8#I really love sweets!$8",
+  "Mon": "¿Dando un paseo?$1#",
+  "Mon2": "¿Soy yo o nos vemos mas de lo habitual? Tampoco es que sea algo malo, prefiero eso que estar un minuto mas con esos dos idiotas...$1",
+  "Mon4": "Ey, @, si ves algo raro moviéndose por el pueblo…#$b#No grites. Solo avísale a Edd primero.$0",
+  "Mon6": "No soy paranoico, @.#$b#Solo prefiero estar preparado por si algo sale mal.$2",
+  "Mon8": "Hoy el ambiente está… extraño.#$b#Puede que sea solo yo, pero mejor no bajar la guardia.$0",
+  "Mon10": "Edd dice que debería salir más a despejarme.#$b#Supongo que hablar contigo cuenta como eso.$1",
 
-  "Tue": "Que tal va, @?#Hace un buen dia, no?",
-  "Tue2": "No aguanto los inventos de Tord.$0#$b#No me dejan dormir.$2",
-  "Tue4": "No aguanto los inventos de Tord.$0#$b#No me dejan dormir.$2",
+  "Tue": "¿Todo en orden, @?$0#Mientras no explote nada hoy, yo estoy bien.$0",
+  "Tue2": "Tord estuvo trabajando hasta tarde otra vez.$0#$b#No preguntes. Prefiero no saber.$2",
+  "Tue4": "A veces creo que la casa sobreviviría mejor sin tantos inventos.$0#$b#Pero no se lo digas a nadie.$1",
   "Tue6": "No aguanto mis compañeros.$0#Bueno, Edd se salva.$1",
-  "Tue8": "Muchasveces paso y me enceuntro a Sam probando trucos con el skate.$0#$b#A ver si algun dia le sale el Kik flip.$1",
+  "Tue8": "Muchas veces paso y me enceuntro a Sam probando trucos con el skate.$0#$b#A ver si algun dia le sale el Kick flip.$1",
   "Tue10": "Algun dia me deberias de llevar a la mina para ver como es por dentro.$0#$b#Se me da de pena pero nos echariamos unas risas.$1",
 
   "Wed": "Ey que tal?$0#Me pillas ocupado.$0",
   "Wed2": "Hey, @, Que tal los cultivos? $1#",
-  "Wed4": "Nunca me pierdo ningun episodio de La Reina de la Salsa.$0#Sabes lo que es, no?$0",
-  "Wed6": "Isn't it fascinating how technology keeps evolving? I wonder what the future holds.$8",
-  "Wed8": "There's something magical about days like this, don't you think? Makes you appreciate the little things.$8#So, what's your plans for today?$3",
-  "Wed10": "You know, sometimes I wish I could just sleep in for a day. How about you?$3",
+  "Wed4": "Nunca me pierdo ningun episodio de La Reina de la Salsa.$0#¿Sabes lo que es, no?$0",
+  "Wed6": "La tecnología avanza demasiado rápido.$2#$b#Un día nos va a pasar factura.$0",
+  "Wed8": "Días tranquilos como este son raros.$1#$b#Aprovéchalos mientras duren.$1",
+  "Wed10": "Dormir más de ocho horas debería ser obligatorio.$3#$b#Para todos.$1",
   
-  "Thu": "Have you noticed the carp from this town is a bit different compared to other places? I wonder why.$1#Everyone I talked to hates them.$1",
-  "Thu2": "Hey there, @. Anything exciting happening today?$0#Me? Same as usual.$0",
-  "Thu4": "I've been noticing some strange occurrences around town lately. Makes you wonder what's going on behind the scenes.$2",
+  "Thu": "¿No tienes la sensación de que este pueblo es demasiado tranquilo?$1#$b#Eso nunca es buena señal.$1",
+  "Thu2": "Ey, @.$0#$b#Hoy no ha pasado nada raro.#$b#De momento.$1",
+  "Thu4": "He estado escuchando ruidos extraños por la noche.$2#$b#Seguro que no es nada… pero por si acaso, cierro con llave.$0",
   "Thu6": "Conoces a Evelyn?$1#$b#Es super maja, simepre me la encuentro regando sus plantas.$4#Me recuerda a mi abuela.$1",
-  "Thu8": "I've got a craving for something sweet.$6#@, any suggestions?$7#How about you? ... I'm kidding! $8",
-  "Thu10": "Any thrilling adventure you been on?$7",
+  "Thu8": "No todos los días apetece hablar.$0#$b#Pero hoy no me importa tanto.$1",
+  "Thu10": "Si alguna vez pasa algo raro por aquí…#$b#Espero que alguien reaccione rápido.$2",
   
   
 
 
 	"Fri": "Como va?$0#$b#Tengo cosas que hacer.$0",
   "Fri2": "Por fin el mejor día de la semana.$0",
-  "Fri4": "I've been thinking about trying out some new combat techniques. Any chance you'd be interested in sparring with me sometime?$3#I'll go easy on you if you want that.$7",
+  "Fri4": "Los fines de semana siempre me descolocan.$0#$b#Nunca sé qué se supone que tengo que hacer.$1#$b#¿Dormir, ver la tele, volver a dormir u holgazanear? Es tan dificil escoger.$1",
   "Fri6": "Que tal van los cultivos?$1",
   "Fri8": "Hace un precioso dia, no cres?$4#$b#Nos vemos.$1",
   "Fri10": "... $4#$b# Perdona, decias algo?$1#Me distague con tus ojos.$4",
   
-  "Sat": "Do you ever find yourself craving something sweet, @?$8#I've got a weakness for desserts. Maybe we should indulge in some treats together, what do you say?$1",
-  "Sat2": "Hey there! Enjoying the ordinary life, huh? It's got its own charm, doesn't it?$7",
-  "Sat4": "Sometimes, the greatest adventures are the ones we find in the everyday moments.$8",
-  "Sat6": "Do you enjoy reading? I've got this book I think you might like.$7",
-  "Sat8": "I could really go for some ice cream right now. What's your favorite flavor?$8#",
-  "Sat10": "So you're saying that your grandpa gave you the farm.$6#That's really nice!",
+  "Sat": "Si te metes en problemas, @…#$b#Intenta avisar a alguien antes de hacerlo peor.$2",
+  "Sat2": "Un helado no arregla los problemas.$0#$b#Pero ayuda más de lo que debería.$1",
+  "Sat4": "La rutina es cómoda.$1#$b#Hasta que te das cuenta de que llevas demasiado tiempo en ella.$0",
+  "Sat6": "Empecé varias cosas esta semana.$0#$b#No he terminado ninguna.$1",
+  "Sat8": "A veces me quedo mirando al vacío sin darme cuenta.$0#$b#No es profundo. Solo pasa.$1",
+  "Sat10": "Que te quedaras con la granja no suena tan simple.$2#$b#Supongo que cada decisión pesa.$1",
   
-  "Sun": "Tomandote un descanso?$0",
-  "Sun4": "So where are you from, @?$3#Me? I'm Japanese.$8#Want me to say something? Hmm...$7#Nihongo o hanasu hito ga suki desu ka?$7#Did you like that?$7",
-  "Sun6": "It's a beautiful day outside.$8#What are you up to?$3",
-  "Sun8": "Hello, @.$3#What are your plans for today?$3",
-  "Sun10": "Buenas @ que tal va por tu granja?$2#$b#Perdona por preguntarlo asi de la nada pero...#$q 21/22/211132 Mon_old#Que es lo que mas te gusta de este lugar?#$r 21 5 Mon_21#El pueblo.#$r 22 5 Mon_22#Plantar y cuidar los animales.#$r 211132 -10 Mon_211132#Todo aqui és aburrido.#$r 22 5 Mon_22#Quería escapar de mi antigua vida.",
+  "Sun": "¿Tomandote un descanso?$0",
+  "Sun4": "No soy muy bueno manteniendo conversaciones.$0#$b#Pero no significa que no escuche.$1",
+  "Sun6": "El domingo siempre se siente raro.$1#$b#Como si el día estuviera esperando algo.$0",
+  "Sun8": "Hola, @.$1#$b#No tengo planes.#$b#Eso suele ser lo mejor.$1",
+  "Sun10": "Buenas @, ¿Que tal va por tu granja?$1#$b#Perdona por preguntarlo asi de la nada pero...#$q 21/22/211132 Mon_old#Que es lo que mas te gusta de este lugar?#$r 21 5 Mon_21#El pueblo.#$r 22 5 Mon_22#Plantar y cuidar los animales.#$r 211132 -10 Mon_211132#Todo aqui és aburrido.#$r 22 5 Mon_22#Quería escapar de mi antigua vida.",
    
   
 
   "Mon_old": "$p 21#¿Y ganas tanto dinero como esperabas?|Pasar tiempo en la naturaleza es muy gratificante.",
   "Mon_21": "Hmm. No te voy a negar que el pueblo es muy bonito.$s",
-  "Mon_22": "Hey... ¡Esa es la razón por la que he venido aquí yo también!$h#$b#Quería descansar y buscar un hobby.$0#$b#La verdad es que aqui aprendi mucho. Hice amigos y pude descansar de la ciudad. Aun qeu Tord no deje de molestar.$0#$b#Bueno perdona por sacarte todo esto, en fin... Que tengas un buen dia.$2",
+  "Mon_22": "Hey... ¡Esa es la razón por la que he venido aquí yo también!$h#$b#Quería descansar y buscar un hobby.$0#$b#La verdad es que aqui aprendi mucho. Hice amigos y pude descansar de la ciudad. Aunque Tord no deje de molestar.$0#$b#Bueno perdona por sacarte todo esto, en fin... Que tengas un buen dia.$2",
   "Mon_211132": "Em...$0#$b#Vale, si tu lo dices...",
 
 
@@ -132,31 +143,31 @@
 
 
 
-  "Sun20": "Don't underestimate the power of kindness. It can change someone's entire day.$8",
+  "Sun20": "Dicen que hay que apoyar el negocio local.$0#$b#Pero el saloon no tiene ni la mitad de opciones que Joja.$1",
    
-  "spring_Mon": "Yo creo que el otoño es algo nostaliguico. Recordar las cosas pasadas hay veces que es bonito. $0#$b# Por eso me gusta tanto.$1",
-  "spring_Mon2": "You know, @, spring reminds me of the importance of growth and renewal. It's a time to plant seeds, both literally and figuratively.$3",
+  "spring_Mon": "Matt quiere que salgamos a \"disfrutar el clima\".$0#$b#No sé qué parte de eso implica caminar entre barro.$1",
+  "spring_Mon2": "La primavera hace que el pueblo huela raro.$0#$b#Nadie habla de eso, pero pasa.$1",
  
-  "summer_Mon2": "Summer days are made for relaxation, @. How about we escape the heat and spend a lazy afternoon together?$7",
-  "summer_Tue2": "Nothing beats a refreshing swim on a hot summer day, @.$7",
+  "summer_Mon2": "Hace tanto calor que hasta pensar cansa.$0#$b#Edd dice que es \"verano perfecto\". Está loco.$1",
+  "summer_Tue2": "Edd insiste en que el verano es su estación favorita.$0#$b#Claro, no suda.$1",
  
-  "fall_Mon": "Yo creo que el otoño es algo nostaliguico. Recordar las cosas pasadas hay veces que es bonito. $0#$b# Por eso me gusta tanto.$1",
-  "fall_Thu": "Soy yo o escurece antes?$0",
+  "fall_Mon": "Hay hojas por todos lados.$0#$b#Al menos crujen, eso es entretenido.$1",
+  "fall_Thu": "¿Soy yo o escurece antes?$0",
  
-  "winter_Mon2": "The holiday season always brings a sense of joy and togetherness, @.$8",
-  "winter_Mon10": "Winter nights are perfect for cozying up indoors with a hot drink and a good book. Care to join me, @?$7",
+  "winter_Mon2": "El invierno hace que todos se queden en casa.$0#$b#Como debería ser siempre.$1",
+  "winter_Mon10": "Las noches de invierno son largas.$0#$b#A veces Matt y Edd se quedan hablando hasta tarde.$1",
   
 
-  "spring_1_2": "Feliz año nuevo, @!$1",
+  "spring_1_2": "Año nuevo.$0#$b#Matt ya hizo una lista de cosas que quiere hacer.$1",
   "spring_1_3": "Feliz año nuevo,@! Un año mas aqui. $1",
   "spring_1_4": "Feliz año nuevo, @!$1",
   
-  "Resort": "Ginger Island is quite the paradise, isn't it?$1",
-  "Resort_Bar": "Ah, the bar! While I'm not a fan of alcohol, I'm glad they offer refreshing drinks without it. Let's enjoy something non-alcoholic together, shall we?$3",
-  "Resort_Entering": "Stepping foot on Ginger Island always fills me with a sense of adventure. Who knows what we'll discover today?$6",
-  "Resort_Leaving": "Leaving Ginger Island is always bittersweet. Until next time, paradise.$8",
-  "Resort_Shore": "The shore is the perfect spot to take in the beauty of Ginger Island. Don't you think?$7",
-  "Resort_Wander": "Adventure awaits around every corner.$6",
+  "Resort": "Este lugar es raro.$0#$b#Demasiado limpio.$1",
+  "Resort_Bar": "Al menos aqui sirven bebidas decentes.$0#$b#Después de un par, el lugar mejora bastante.$1",
+  "Resort_Entering": "Matt ya preguntó si hay souvenirs.$0#$b#Todavía no entramos.$1",
+  "Resort_Leaving": "Bueno, estuvo bien.$0#$b#Ahora necesito sentarme sin arena en los zapatos.$1",
+  "Resort_Shore": "El mar está bien.$0#$b#Hace ruido, pero uno útil.$1",
+  "Resort_Wander": "Perderse aquí no sería tan terrible.$0#$b#He estado en lugares peores.$1",
 
 
 
@@ -171,7 +182,7 @@
 
 
 
-  "dumped_Guys": "Ni me hables$3#$e#No tengo tiempo para escoria como tu.$5",
+  
   "spring_Fri": "Edd no para de decirnos de limpiar las botella de nuestra casa.$2#$e#Y yo le dije, «Edd, relájate. Mañana no habra ni una.»$h#$e#Esto empezo desde que llegamos aqui. Hace mas de 2 meses.",
 
 
@@ -180,37 +191,37 @@
 
 
 
-  "summer": "$c 0.9 #Dios que ganas de un helado.$1#Buenas @ que tal va por tu granja?$2#$b#Perdona por preguntarlo asi de la nada pero...#$q 21/22/211132 Mon_old#Que es lo que mas te gusta de este lugar?#$r 21 5 Mon_21#El pueblo.#$r 22 5 Mon_22#Plantar y cuidar los animales.#$r 211132 -10 Mon_211132#Todo aqui és aburrido.#$r 22 10 Mon_22#Quería escapar de mi antigua vida.",
+  "summer": "$c 0.9 #Dios, que ganas de un helado.$1#Buenas @, ¿Que tal va por tu granja?$2#$b#Perdona por preguntarlo asi de la nada pero...#$q 21/22/211132 Mon_old#Que es lo que mas te gusta de este lugar?#$r 21 5 Mon_21#El pueblo.#$r 22 5 Mon_22#Plantar y cuidar los animales.#$r 211132 -10 Mon_211132#Todo aqui és aburrido.#$r 22 10 Mon_22#Quería escapar de mi antigua vida.",
 
-  "RejectMermaidPendant_AlreadyAccepted_Engaged": "Porque me das otro? Con uno ya estaba encantado. Asi que guardatelo, no me hace falta$h#$b#No te acuerdas de que ya me diste uno?$2",
-  "RejectMermaidPendant_AlreadyAccepted_Married": "Pero... Si ya nos hemos casado. No?...$2#$b#",
-  "RejectMermaidPendant_AlreadyAccepted": "Sabes lo que significa esto, no?$1#$b#Claro que estaria toda mi vida contigo,te amo. Eres lo mejor que me ha pasado.",
+  "RejectMermaidPendant_AlreadyAccepted_Engaged": "¿Por que me das otro? Con uno ya estaba encantado. Asi que guardatelo, no me hace falta$h#$b#¿No te acuerdas de que ya me diste uno?$2",
+  "RejectMermaidPendant_AlreadyAccepted_Married": "Pero... Si ya nos hemos casado. ¿No?...$2#$b#",
+  "RejectMermaidPendant_AlreadyAccepted": "¿Sabes lo que significa esto, no?$1#$b#Claro que estaria toda mi vida contigo,te amo. Eres lo mejor que me ha pasado.",
   
-  "RejectMermaidPendant_Divorced": "Volver a estar contigo...$2#$b#Tendré que rechazarlo.",
-  "RejectMermaidPendant_NeedHouseUpgrade  ": "Necesitaremos una casa mas grande, no crees?$1",
-  "RejectMermaidPendant_NpcWithSomeoneElse": "Lo siento. No soy de poner los cuernos. $2#$b#Pero tu si por lo que veo. Eso dice mucho de ti...$1",
-  "RejectMermaidPendant_PlayerWithSomeoneElse": "Tendre que rechazarlo. No estabas casado?^Tendre que rechazarlo. No estabas casada?.$1",
-  "RejectMermaidPendant_Under8Hearts": "Como?!... Lo siento.$2#$b# No estoy preparado para esto... Perdona.$8",
-  "RejectMermaidPendant_Under10Hearts": "Ahora?...Perdona pero lo estaba pensando. Pero necesito mas tiempo....$1",
-  "RejectMermaidPendant_Under10Hearts_AskedAgain": "Aun estoy pensando la propuesta y aun no me he decido.$1",
-  "RejectMermaidPendant": "Lo siento, pero creo que no estoy preparado aun.$1",  
+  "RejectMermaidPendant_Divorced": "Volver a estar contigo...$2#$b#Tendré que rechazarlo.$0",
+  "RejectMermaidPendant_NeedHouseUpgrade  ": "Necesitaremos una casa mas grande,¿No crees?$1",
+  "RejectMermaidPendant_NpcWithSomeoneElse": "Lo siento. No soy de poner los cuernos. $2#$b#Pero tu si por lo que veo. Eso dice mucho de ti...$0",
+  "RejectMermaidPendant_PlayerWithSomeoneElse": "Tendre que rechazarlo. ¿No estabas ${casado^casada}$?$1",
+  "RejectMermaidPendant_Under8Hearts": "¡¿Como?!... Lo siento.$2#$b# No estoy preparado para esto... Perdona.$8",
+  "RejectMermaidPendant_Under10Hearts": "Ahora?...Perdona pero lo estaba pensando. Pero necesito mas tiempo....$3",
+  "RejectMermaidPendant_Under10Hearts_AskedAgain": "Aun estoy pensando la propuesta y aun no me he decido.$3",
+  "RejectMermaidPendant": "Lo siento, pero creo que no estoy preparado aun.$3",  
   
 
   
-  "spring_12": "Que rabia no poder ir mañana a la danza.$1",
+  "spring_12": "Que rabia no poder ir mañana a la danza.$0",
   
   
-  "summer_Mon": "Que pereza el calor.$2#$b#Como a la gente le gusta la calor?$0",
+  "summer_Mon": "Que pereza el calor.$2#$b#¿Como a la gente le gusta el calor?$0",
   "summer_Tue": "Hoy voy a la playa o me derrito aquí mismo.$0",
   "summer_Sun": "Ayer estuve muy cerca de pescar un Pez carmesí. Pero %name me saludo a la distancia y me distrajo.$2#$e#Estaba tan cerca... Igual solo se pilla en verano así que aun me da tiempo.",
-  "summer_Fri": "Ya tengo ganas de un helado.$2#$b#Con esta calor, quien no?",
+  "summer_Fri": "Ya tengo ganas de un helado.$2#$b#Con esta calor, quien no?$1",
   
   "fall_1": "Por fin se acerca la mejor festividad.$1",
   "fall_2": "Por fin se acerca la mejor festividad.$1",
   "fall_6": "La mejor estacion se acerca.$2#$e#Ya hecho de menos el frio y los dias cortos.$2",
   "fall_15": "La mejor estacion se acerca.$2#$e#Ya hecho de menos el frio y los dias cortos.$2",
 
-  "fall_26": "Que ganas tengo de la Víspera de los espíritus.#Tu iras?$1",
+  "fall_26": "Que ganas tengo de la Víspera de los espíritus.#¿Tu iras?$1",
 
   "winter_1": "Bueno, se acabó el otoño...$0#$b#Almenos por fin hay frio.$1",
   "winter_7": "Me entero hoy que mañana hay un festival.$1",
@@ -220,18 +231,18 @@
 
 
 
-  "SeedShop_Entry": "Buenas",
-  "SeedShop": "Ey,@. Que haces por aqui?$0#$b#Comprando semillas?$0",
+  "SeedShop_Entry": "Buenas$0",
+  "SeedShop": "Ey,@. ¿Que haces por aqui?$0#$b#¿Comprando semillas?$0",
   "Town_18_21": "%Tom esta ocupado tocando",
   "Beach": "Tomandote un descanso, no?",
-  "Saloon6": "Un dia duro, no?$1#Pillate una cerveza, aqui son las mejores que he probado.$1",
+  "Saloon6": "¿Un dia duro, no?$1#Pillate una cerveza, aqui son las mejores que he probado.$1",
   "Saloon": "Siempre entra bien despues de un dia duro.$1",
-  "Forest": "Hay veces quieres estar... Solo.$0#$b#Pero no molestas, tranquilo.^Pero no molestas, tranquila.$1",
-  "LeahHouse": "Me he comprado un cojojn y medio$8",
-  "FishShop": "Necesitaba un poco de cebo y de paso ayudo a Willy$2#$b#Al pobre no le va muy bien el negocio.",
+  "Forest": "Hay veces quieres estar... Solo.$0#$b#Pero no molestas, ${tranquilo^tranquila}$$1",
+  "LeahHouse": "Me he comprado un cojojn y medio.$8",
+  "FishShop": "Necesitaba un poco de cebo y de paso ayudo a Willy.$2#$b#Al pobre no le va muy bien el negocio.",
   
   "Town_46_32":"%Tom esta demasiado concentrado para responderte.",
-  "Saloon_40_17":"Creo que Sam no se le da muy bien el billar. $1"
+  "Saloon_40_17":"Creo que a Sam no se le da muy bien el billar. $1"
 
 
 
@@ -240,29 +251,6 @@
 
 
 }
-},
-
-
-{"Action":"EditData",
-"Target": "Data/EngagementDialogue",
-"Entries": {
-  "Satoru0": "Sabias que te amo, @.$4",
-  "Satoru1": "Estoy muy feliz de estar aquí, gracias a ti.$4"
 }
-},
-{"Action":"EditData",
-"Target": "Strings/StringsFromCSFiles",
-"Entries": {
-  "Satoru_Engaged": "Whoa, @, didn't see that coming!$6#$b#I'll marry you, no doubt about it, sweetheart.$8",
-  "Satoru_AfterWedding": "Te quiero, @.$4"
-}
-},
-{"Action": "EditData",
-"Target": "Data/ExtraDialogue",
-"Entries": {
-  "SummitEvent_Dialogue3_Satoru": "The day we crossed paths was the luckiest day of my life.#$b#I wouldn't want to be anywhere else, but here with you.$l"
-}
-}
-
 ] 
 }
