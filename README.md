@@ -10,7 +10,7 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 - [@DaniPraivet](https://github.com/DaniPraivet)
 
 
-[## Installation ](https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/Installation.png)
+[## Installation ](Installation.png)
 
 PASOS DE INSTALACION:
 
