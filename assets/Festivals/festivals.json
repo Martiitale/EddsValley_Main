@@ -490,7 +490,43 @@
             }
         },
         {
+            "LogName": "Tom Desert Festival Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring15",
+            "Entries": {
+                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
+                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Desert Festival 2 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring16",
+            "Entries": {
+                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
+                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Desert Festival 3 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring17",
+            "Entries": {
+                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
+                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+            }
+        },
+        {
             "LogName": "Tom Flower Festival Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24",
+            "Entries": {
+                "Tom": "Las flores son bonitas, supongo...$1#Aunque no entiendo muy bien para qué sirven.$2",
+                "Tom_spouse": "Flowers are... nice, I guess.$1#Not really my thing, but I'm happy to be here with you, @.$1"
+            }
+        },
+        {
+            "LogName": "Tom Luau Festival Dialogue",
             "Action": "EditData",
             "Target": "Data/Festivals/summer11",
             "Entries": {
@@ -499,11 +535,39 @@
             }
         },
         {
+            "LogName": "Tom Trout Derby Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer20",
+            "Entries": {
+                "Tom": "Pescar es aburrido, pero al menos hay menos gente molesta por aqui.$1#Aunque no entiendo muy bien qué sentido tiene esto...$2",
+                "Tom_spouse": "Fishing isn't really my thing, @.$1#But I'm glad we could share this time together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Trout Derby 2 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer21",
+            "Entries": {
+                "Tom": "Pescar es aburrido, pero al menos hay menos gente molesta por aqui.$1#Aunque no entiendo muy bien qué sentido tiene esto...$2",
+                "Tom_spouse": "Fishing isn't really my thing, @.$1#But I'm glad we could share this time together.$1"
+            }
+        },
+        {
             "LogName": "Tom Dance of the Moonlight Jellies Dialogue",
             "Action": "EditData",
             "Target": "Data/Festivals/summer28",
             "Entries": {
-                "Tom": "Ver las medusas flotar se me hace raro. Es como si me imnotizaran.$4"
+                "Tom": "Ver las medusas flotar se me hace raro. Es como si me imnotizaran.$4",
+                "Tom_spouse": ""
+            }
+        },
+        {
+            "LogName": "Tom Stardew Valley Fair Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "Entries": {
+                "Tom": "Vaya follon de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
+                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the fair together.$1"
             }
         },
         {
@@ -522,6 +586,51 @@
             "Entries": {
                 "Tom": "Dialogo promedio y bla bla bla$1",
                 "Tom_spouse": "Dialogo promedio y bla bla bla$1, @.$7#Dialogo promedio y bla bla bla$1"
+            }
+        },
+        {
+            "LogName": "Tom SquidFest Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter12",
+            "Entries": {
+                "Tom": "No entiendo muy bien qué sentido tiene esto de lanzar calamares...$2#Pero al menos hay menos gente molesta por aqui.$1",
+                "Tom_spouse": "I don't really get the whole squid tossing thing, @.$1#But I'm glad we could spend this time together.$1"
+            }
+        },
+        {
+            "LogName": "Tom SquidFest 2 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter13",
+            "Entries": {
+                "Tom": "No entiendo muy bien qué sentido tiene esto de lanzar calamares...$2#Pero al menos hay menos gente molesta por aqui.$1",
+                "Tom_spouse": "I don't really get the whole squid tossing thing, @.$1#But I'm glad we could spend this time together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Night Market Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter15",
+            "Entries": {
+                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
+                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Night Market 2 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter16",
+            "Entries": {
+                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
+                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
+            }
+        },
+        {
+            "LogName": "Tom Night Market 3 Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter17",
+            "Entries": {
+                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
+                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
             }
         },
         {
