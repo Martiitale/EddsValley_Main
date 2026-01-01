@@ -32,6 +32,98 @@
             ]
         },
         {
+            "LogName": "Tom Desert Festival 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring15",
+            "TextOperations": [
+                { "Operation" : "Append",
+                  "Target": ["Entries", "Set-Up_additionalCharacters"],
+                  "Value": "Tom 12 44 2",
+                  "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Desert Festival 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Desert Festival 3",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring17",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
             "LogName": "Tom Flower Festival",
             "Action": "EditData",
             "Target": "Data/Festivals/spring24",
@@ -94,6 +186,68 @@
             ]
         },
         {
+            "LogName": "Tom Trout Derby 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer20",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Trout Derby 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer21",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
             "LogName": "Tom Dance of the Moonlight Jellies",
             "Action": "EditData",
             "Target": "Data/Festivals/summer28",
@@ -120,6 +274,37 @@
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
                     "Value": "Tom 26 36 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Stardew Valley Fair",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {                    
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 25 57 2",
                     "Delimiter": "/"
                 }
             ]
@@ -175,6 +360,107 @@
             ]
         },
         {
+            "LogName": "Tom SquidFest 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter12",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom SquidFest 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter13",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter15",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
+                    "Delimiter": "/" 
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter16",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
+                    "Delimiter": "/" 
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 3",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter17",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
+                    "Delimiter": "/" 
+                }
+            ]
+        },
+        {
             
             "LogName": "Tom Feast of the Winter Star",
             "Action": "EditData",
@@ -200,7 +486,7 @@
             "Target": "Data/Festivals/spring13",
             "Entries": {
                 "Tom": "Como estas gupisimo, yo aqui pillando huevo s$3",
-                "Satoru_spouse": "Si lo cuentas...$1#Si lo cuentas te rajo$4"
+                "Tom_spouse": "Si lo cuentas...$1#Si lo cuentas te rajo$4"
             }
         },
         {
@@ -226,7 +512,7 @@
             "Target": "Data/Festivals/fall27",
             "Entries": {
                 "Tom": "Me a dado un paro cardico ese televisor.$8#$b#Esto? Es que me lo paso bien disfrazandome.$8#Te gusta?$9",
-                "Satoru_spouse": "If you find yourself getting spooked, @, you know where to find me, love.$7#I'll always keep you safe.$1"
+                "Tom_spouse": "If you find yourself getting spooked, @, you know where to find me, love.$7#I'll always keep you safe.$1"
             }
         },
         {
@@ -235,7 +521,7 @@
             "Target": "Data/Festivals/winter8",
             "Entries": {
                 "Tom": "Dialogo promedio y bla bla bla$1",
-                "Satoru_spouse": "Dialogo promedio y bla bla bla$1, @.$7#Dialogo promedio y bla bla bla$1"
+                "Tom_spouse": "Dialogo promedio y bla bla bla$1, @.$7#Dialogo promedio y bla bla bla$1"
             }
         },
         {
@@ -244,7 +530,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries": {
                 "Tom": "Ese pollo tiene un pinta.$0#$b#Perdona, que tal las navidades, @?$1#Si no hubiera nadie me lanzaba a por el.$1",
-                "Satoru_spouse": "Happy Winter Star, my love. This festival always reminds me of how lucky I am to have you in my life.$7#I love you.$1"
+                "Tom_spouse": "Happy Winter Star, my love. This festival always reminds me of how lucky I am to have you in my life.$7#I love you.$1"
             }
         }
     ]
