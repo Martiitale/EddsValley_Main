@@ -108,8 +108,8 @@
          "FromFile":"assets/img/spritesheet.png"
       },
       {
-         "LogName":"NPC Beach Sprite",
-         "Action":"Load",
+         "LogName":"NPC Sprite Winter",
+         "Action":"EditImage",
          "Target":"Characters/Tom",
          "FromFile":"assets/img/spritesheet-winter.png",
          "When": {
@@ -124,7 +124,7 @@
       },
       {
          "LogName": "NPC Portrait Winter",
-         "Action":"Load",
+         "Action":"EditImage",
          "Target":"Portraits/Tom",
          "FromFile":"assets/img/portrait-Winter.png",
          "When": {

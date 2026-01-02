@@ -15,7 +15,7 @@
                "SocialAnxiety":"Neutral",
                "Optimism":"Negative",
                "CanBeRomanced":"True",
-               "IntroductionsQuest":"False",
+               "IntroductionsQuest":"True",
                "SpouseRoom":{ "MapAsset":"Maps/Tom_spouseRoom"},
                "Home":[
                   {
