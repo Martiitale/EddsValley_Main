@@ -12,9 +12,9 @@
                "Language":"Default",
                "Gender":"Male",
                "Age":"Adult",
-               "Manner":"Polite",
-               "SocialAnxiety":"Outgoing",
-               "Optimism":"Positive",
+               "Manner":"Rude",
+               "SocialAnxiety":"Neutral",
+               "Optimism":"Negative",
                "CanBeRomanced":"True",
                "IntroductionsQuest":"False",
                "SpouseRoom":{
@@ -45,18 +45,16 @@
                      ]
                   ]
                },
-               "WinterStarGifts":[
-                  
-               ],
+               "WinterStarGifts":[],
                "Home":[
                   {
                      "Id":"Default",
-                     "Location":"AdventureGuild",
+                     "Location":"EddsWorld_Eddsworld_House",
                      "Tile":{
-                        "X":20,
-                        "Y":12
+                        "X":27,
+                        "Y":6
                      },
-                     "Direction":"left"
+                     "Direction":"down"
                   }
                ],
                "Appearance":[
@@ -73,7 +71,7 @@
                      "IsIslandAttire":"True"
                   }
                ],
-               "KissSpriteIndex":55,
+               "KissSpriteIndex":42,
                "KissSpriteFacingRight":"True"
             }
          }
