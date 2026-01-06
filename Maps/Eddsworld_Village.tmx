@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="41" height="43" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="51">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="41" height="43" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="52">
  <properties>
   <property name="Light" value="20 6 2 18 8 2 23 8 2 11 6 4"/>
   <property name="Music" value="spring3"/>
@@ -1592,6 +1592,11 @@
   <object id="50" name="TileData" x="64" y="512" width="192" height="32">
    <properties>
     <property name="Action" value="Dialogue Estos cultivos están a medio cuidar..."/>
+   </properties>
+  </object>
+  <object id="51" name="TileData" x="400" y="144" width="16" height="16">
+   <properties>
+    <property name="Action" value="Dialogue -Residencia de Edd, Tom, Matt y Tord-"/>
    </properties>
   </object>
  </objectgroup>
