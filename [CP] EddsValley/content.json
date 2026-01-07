@@ -133,9 +133,9 @@
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
-         "LogName":"Tom Festivals Data",
+         "LogName":"Festivals Data",
          "Action":"Include",
-         "FromFile":"assets/Festivals/festivals.json"
+         "FromFile":"assets/Festivals/festivals.json, assets/Festivals/spring13, assets/Festivals/spring24, assets/Festivals/summer11, assets/Festivals/summer28, assets/Festivals/fall16, assets/Festivals/fall27, assets/Festivals/winter8, assets/Festivals/winter25"
       },
       {
          "Action":"EditData",

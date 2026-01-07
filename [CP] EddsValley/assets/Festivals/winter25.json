@@ -1,0 +1,24 @@
+{
+    "Changes": [
+        {
+            
+            "LogName": "Tom Feast of the Winter Star",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 26 65 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 26 65 3",
+                    "Delimiter": "/"
+                }
+            ]
+        }
+    ]
+}

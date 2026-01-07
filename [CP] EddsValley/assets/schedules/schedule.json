@@ -11,6 +11,12 @@
    "DesertFestival_1": "700 EddsWorld_Eddsworld_House 27 6 /900 Desert 12 44 2 \"assets\\dialogue\\Tom_dialogue:Fri8\" /2500 EddsWorld_Eddsworld_House 27 6",
    "marriage_DesertFestival_2": "900 Desert 12 44 2 \"assets\\dialogue\\Tom_dialogue:Good_2\" /2100 EddsWorld_Eddsworld_House 27 6",
    "DesertFestival_2": "700 EddsWorld_Eddsworld_House 27 6 /900 Desert 12 44 2 \"assets\\dialogue\\Tom_dialogue:Mon\" /2100 EddsWorld_Eddsworld_House 27 6",
+   "TroutDerby": "700 EddsWorld_Eddsworld_House 27 6 /900 Forest 85 50 2 /2400 EddsWorld_Eddsworld_House 27 6",
+   "marriage_TroutDerby": "GOTO TroutDerby",
+   "SquidFest": "700 EddsWorld_Eddsworld_House 27 6 /900 Beach 85 50 2 /2400 EddsWorld_Eddsworld_House 27 6",
+   "marriage_SquidFest": "GOTO SquidFest",
+   "NightMarket": "700 EddsWorld_Eddsworld_House 27 6 /1700 Beach 38 35 1 /2400 EddsWorld_Eddsworld_House 27 6",
+   "marriage_NightMarket": "GOTO NightMarket",
    "rain":"620 EddsWorld_Eddsworld_House 27 6 /800 EddsWorld_Eddsworld_House 5 13 0 Drink_Tom /1200 EddsWorld_Eddsworld_House 3 27 3 /1600 EddsWorld_Eddsworld_House 30 23 1 /1900 EddsWorld_Eddsworld_Village 36 4 3 Drink_Tom /2200 EddsWorld_Eddsworld_House 27 6",
    "rain2":"620 EddsWorld_Eddsworld_House 27 6 /800 EddsWorld_Eddsworld_House 5 13 0 Drink_Tom /1200 EddsWorld_Eddsworld_House 3 27 3 /1800 EddsWorld_Eddsworld_MattRoom 24 15 /2100 EddsWorld_Eddsworld_House 27 6",
    "default": "GOTO spring"

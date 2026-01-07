@@ -1,0 +1,23 @@
+{
+    "Changes": [
+        {
+            "LogName": "Tom Spirit's Eve",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 33 21 2 Disfraz",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 33 21 2 Disfraz",
+                    "Delimiter": "/"
+                }
+            ]
+        }
+    ]
+}
