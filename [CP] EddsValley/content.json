@@ -27,6 +27,46 @@
          }
       },
       {
+         "Action": "Load",
+         "Target": "Maps/Town-EggFestival",
+         "FromFile": "Maps/Town-EggFestival.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-EggFestival2",
+         "FromFile": "Maps/Town-EggFestival2.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Fair",
+         "FromFile": "Maps/Town-Fair.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Fair2",
+         "FromFile": "Maps/Town-Fair2.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Halloween",
+         "FromFile": "Maps/Town-Halloween.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Halloween2",
+         "FromFile": "Maps/Town-Halloween2.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Christmas",
+         "FromFile": "Maps/Town-Christmas.tmx"
+      },
+      {
+         "Action": "Load",
+         "Target": "Maps/Town-Christmas2",
+         "FromFile": "Maps/Town-Christmas2.tmx"
+      },
+      {
          "Action":"Load",
          "Target":"LooseSprites/map",
          "FromFile":"Minimap-ew/map.png"
